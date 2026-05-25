@@ -33,17 +33,16 @@
 <img width="509" height="92" alt="image" src="https://github.com/user-attachments/assets/aa8be811-3031-4f9e-ae5a-a1dc2a3bb666" />
 
 
-### Время посещения за опр отрезок времени
-
-
-
-
 ### Навигация вперед/назад
-![alt text](<Снимок экрана 2026-05-24 в 18.00.02.png>)![alt text](<Снимок экрана 2026-05-24 в 18.00.18.png>)
+<img width="465" height="87" alt="image" src="https://github.com/user-attachments/assets/6321aff6-a2e7-44b1-aaa2-b46982036d24" />
+<img width="469" height="92" alt="image" src="https://github.com/user-attachments/assets/e9956d15-df19-47c9-9730-bd797b83839b" />
+
+
 ### Сохранение в Base-64
-![alt text](<Снимок экрана 2026-05-24 в 18.02.57.png>)
-![alt text](<Снимок экрана 2026-05-24 в 18.03.17.png>)
+<img width="528" height="53" alt="image" src="https://github.com/user-attachments/assets/1961639e-4686-4417-a575-6e985cf2d360" />
+<img width="298" height="45" alt="image" src="https://github.com/user-attachments/assets/76704c37-1460-4f9e-8826-da3cfbd2db4d" />
+
 
 ###Загрузка из Base-64
 
-![alt text](<Снимок экрана 2026-05-24 в 18.08.58.png>)
+<img width="486" height="156" alt="image" src="https://github.com/user-attachments/assets/7ef84fca-3ed5-4be0-a32c-b3d0277c33fa" />
